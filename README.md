@@ -24,3 +24,4 @@ pip install -r requirements.txt
 
 Make sure you have authenticated Google Earth Engine prior to running the analytics (see Earth Engine docs).
 # agritech
+# agritech
